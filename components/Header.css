@@ -1,0 +1,14 @@
+.page-header {
+   
+    background-color: #1E2A78;
+    color: white;
+    padding: 20px; 
+    text-align: center; 
+    box-shadow: 0 4px 2px -2px gray; 
+  }
+  
+  .page-title {
+    margin: 0; 
+    font-size: 2.5em; 
+  }
+  
