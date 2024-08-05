@@ -1,0 +1,74 @@
+[
+    {
+        "securityId": 1,
+        "isin": "A12356111",
+        "cusip": 123456780,
+        "issuer_name": "Bundesbank",
+        "maturity_date": "2024-08-23T00:00:00.000+00:00",
+        "coupon": 2,
+        "btype": "Municipal",
+        "face_value": 900,
+        "currency": "USD",
+        "bstatus": "active"
+    },
+    {
+        "securityId": 2,
+        "isin": "GBP1235647",
+        "cusip": 444345678,
+        "issuer_name": "Tesco",
+        "maturity_date": "2024-08-21T00:00:00.000+00:00",
+        "coupon": 1,
+        "btype": "Corporate",
+        "face_value": 1500,
+        "currency": "GBP",
+        "bstatus": "active"
+    },
+    {
+        "securityId": 3,
+        "isin": "GBP1235678",
+        "cusip": 444345679,
+        "issuer_name": "Tesco",
+        "maturity_date": "2024-09-22T00:00:00.000+00:00",
+        "coupon": 1.5,
+        "btype": "Corporate",
+        "face_value": 1300,
+        "currency": "GBP",
+        "bstatus": "active"
+    },
+    {
+        "securityId": 4,
+        "isin": "GBP1235638",
+        "cusip": 444445679,
+        "issuer_name": "Lidl",
+        "maturity_date": "2024-12-22T00:00:00.000+00:00",
+        "coupon": 1.5,
+        "btype": "Corporate",
+        "face_value": 1400,
+        "currency": "GBP",
+        "bstatus": "active"
+    },
+    {
+        "securityId": 5,
+        "isin": "GBP1435678",
+        "cusip": 442345679,
+        "issuer_name": "Waitrose",
+        "maturity_date": "2025-09-22T00:00:00.000+00:00",
+        "coupon": 1.5,
+        "btype": "Corporate",
+        "face_value": 1000,
+        "currency": "GBP",
+        "bstatus": "active"
+    },
+    {
+        "securityId": 6,
+        "isin": "GBP1435678",
+        "cusip": 442345679,
+        "issuer_name": "Waitrose",
+        "maturity_date": "2025-09-22T00:00:00.000+00:00",
+        "coupon": 1.5,
+        "btype": "Corporate",
+        "face_value": 1000,
+        "currency": "GBP",
+        "bstatus": "inactive"
+    }
+]
